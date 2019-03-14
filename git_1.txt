@@ -4,3 +4,4 @@ Git練習用ファイル
 
 git add
 git status
+git rm
