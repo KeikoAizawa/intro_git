@@ -1,3 +1,6 @@
 Git練習用ファイル
 
 コメント追加。
+
+git add
+git status
